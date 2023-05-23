@@ -1,11 +1,11 @@
 # Positional List Text Editor
-Extra Credit Assignment
+Extra Credit Assignment #1, DSA
 
 for Juan Brasdefer and Fabian Pawelczyk
 
 
 
-## note: I simply did not have the time to finish implementing this, and my testing of functionality shows that the cursor doesn't move. Apologies! As it is an extra credit assignment, I need to cut my losses and focus on looming exams. Enjoy anyway, and thanks for the challenge! :)
+## note: Testing of functionality shows that the cursor doesn't move as it should. Apologies! As it is an extra credit assignment, I need to cut my losses and focus on looming exams. Enjoy anyway, and thanks for the challenge! :)
 
 Instructions:
 Write a simple text editor that stores and displays a string of characters using the positional list ADT, together with a cursor object that highlights a position in this string.
